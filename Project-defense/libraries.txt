@@ -1,5 +1,0 @@
-psycopg2 - pip install psycopg2
-# Used for postgreSQL database
-
-pillow - pip install Pillow
-# Used for uploading images
